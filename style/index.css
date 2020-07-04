@@ -1,9 +1,9 @@
 [data-jp-theme-light="true"] .jp-S3-icon {
-  background-image: url(bucket-light.svg);
+  background-image: url(seldon-light.svg);
 }
 
 [data-jp-theme-light="false"] .jp-S3-icon {
-  background-image: url(bucket-dark.svg);
+  background-image: url(seldon-dark.svg);
 }
 
 .jp-SideBar .p-TabBar-content .p-TabBar-tab .jp-S3-icon {
@@ -14,26 +14,26 @@
   #s3-filebrowser
   .jp-FileBrowser-crumbs
   .jp-BreadCrumbs-item:first-child {
-  background-image: url(bucket-light.svg);
+  background-image: url(seldon-light.svg);
 }
 
 [data-jp-theme-light="false"]
   #s3-filebrowser
   .jp-FileBrowser-crumbs
   .jp-BreadCrumbs-item:first-child {
-  background-image: url(bucket-dark.svg);
+  background-image: url(seldon-dark.svg);
 }
 
 [data-jp-theme-light="true"]
   #s3-filebrowser.root
   .jp-DirListing-itemIcon.jp-MaterialIcon.jp-FolderIcon {
-  background-image: url(bucket-light.svg);
+  background-image: url(seldon-light.svg);
 }
 
 [data-jp-theme-light="false"]
   #s3-filebrowser.root
   .jp-DirListing-itemIcon.jp-MaterialIcon.jp-FolderIcon {
-  background-image: url(bucket-dark.svg);
+  background-image: url(seldon-dark.svg);
 }
 
 #s3-filebrowser.root .jp-DirListing-itemIcon.jp-MaterialIcon.jp-FolderIcon {
